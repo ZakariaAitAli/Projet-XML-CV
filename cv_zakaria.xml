@@ -1,0 +1,100 @@
+<cv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cv_zakaria.xsd">
+<entete>
+    <profile>logo-zakaria.jpg</profile>
+    <nom>Ait Ali </nom>
+    <prenom> Zakaria  </prenom>
+    <dateDeNaisssance>2001-04-16</dateDeNaisssance>
+    <nationalite>127 lot Al Amal , El Hajeb</nationalite>
+    <telephone>+212 6 13 32 48 90</telephone>
+    <mail>zakaria.aitali@etu.uae.ac.ma</mail>
+</entete>
+<Formations>
+    <diplome>
+        <annee>2021 - présent</annee>
+        <intitule>Cycle ingénieur - Génie informatique à l'ENSA Tétouan</intitule>
+    </diplome>
+    <diplome>
+        <annee>2023 - présent</annee>
+        <intitule>ALX software-engineering program</intitule>
+    </diplome>
+    <diplome>
+        <annee>2019 - 2021</annee>
+        <intitule>Cycle préparatoire à l'ENSA Tétouan </intitule>
+    </diplome>
+    <diplome>
+        <annee>2018-2019</annee>
+        <intitule>Baccalauréat Sciences Mathématiques A BIOF au lycée IBN AL-KHATIB , EL HAJEB</intitule>
+    </diplome>
+</Formations>
+<stages>
+    <stage>
+        <date>2022 - 2023</date>
+        <titre>Gestion de location de voitures</titre>
+        <description>Création d'une application de gestion de location de voitures en Python, permettant aux utilisateurs de réserver, gérer et suivre leurs locations de véhicules. </description>
+    </stage>
+    <stage>
+        <date>2022 - 2023</date>
+        <titre>Plateforme de vente de livres en ligne</titre>
+        <description>Réalisation d'une plateforme de vente des livres en ligne  offrant aux utilisateurs la possibilité de parcourir, rechercher et acheter des livres de manière conviviale et sécurisée en utilisant JEE, Designs patterns et Next Js</description>
+    </stage>
+    <stage>
+        <date>2022 - 2023</date>
+        <titre>Gestion du service de scolarité </titre>
+        <description>Développement d'une application Desktop pour la gestion du service scolarité avec Java Swing, Ajax, php, JavaScript, Bootstrap, html, css</description>
+    </stage>
+    <stage>
+        <date>2022 - 2023</date>
+        <titre>Application de chat</titre>
+        <description>Le developpement d'une application de chat en utilisant Java EE, offrant aux utilisateurs la possibilité de communiquer en temps réel, d'échanger des messages et de partager des fichiers.</description>
+    </stage>
+    <stage>
+        <date>2022 - 2023</date>
+        <titre>Système de gestion de facturation d'électricité</titre>
+        <description>Création d'une application web pour le suivi des consommations d'électricité et les facturations en utilisant Php, JavaScript, Bootstrap, Html, css</description>
+    </stage>
+</stages>
+<competences>
+    <competence>
+        <titre>Langages: </titre>
+        <description>Python, Java, Langage C</description>
+    </competence>
+    <competence>
+        <titre>Développement Web</titre>
+        <description>php, Ajax, JavaScript, Html, CSS</description>
+    </competence>
+    <competence>
+        <titre>Bases de Données:</titre>
+        <description> PL/SQL, SQL,  MongoDB</description>
+    </competence>
+    <competence>
+        <titre>Frameworks web: </titre>
+        <description>React, NextJS, Laravel, Bootstrap</description>
+    </competence>
+    <competence>
+        <titre>Outils de développement:  </titre>
+        <description>Git, Jira, VS Code</description>
+    </competence>
+</competences>
+<langues>
+    <langue>
+        <intitule>Arabe</intitule>
+        <niveau>langue Maternelle</niveau>
+    </langue>
+    <langue>
+        <intitule>Anglais</intitule>
+        <niveau>C1</niveau>
+    </langue>
+    <langue>
+        <intitule>Français</intitule>
+        <niveau>B2</niveau>
+    </langue>
+    <langue>
+        <intitule>Espagnole</intitule>
+        <niveau>A1</niveau>
+    </langue>
+</langues>
+<loisirs>
+    <loisir>Lecture</loisir>
+    <loisir>music</loisir>
+</loisirs>
+</cv>
